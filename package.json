@@ -1,0 +1,22 @@
+{
+  "name": "angular_data_list",
+  "version": "1.0.0",
+  "description": "Data List with Angular.JS . *Searchable *Dynamic *Fully Responsive.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Abdullahi Mahamed",
+  "license": "ISC"
+}
